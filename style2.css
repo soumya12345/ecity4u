@@ -1,0 +1,87 @@
+html{ margin:0px; padding:0px; height:100%;}
+body{ margin:0px; padding:0px; height:100%;}
+#main{ width:100%; height:auto; float:left;}
+#content_bar{ margin:auto;}
+#content{height:auto; float:right;}
+@font-face {
+	font-family: 'Conv_MYRIADPRO-REGULAR';
+	src: url('fonts/MYRIADPRO-REGULAR.eot');
+	src: local('?'), url('fonts/MYRIADPRO-REGULAR.woff') format('woff'), url('fonts/MYRIADPRO-REGULAR.ttf') format('truetype'), url('fonts/MYRIADPRO-REGULAR.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Oswald-Regular';
+	src: url('fonts/Oswald-Regular.eot');
+	src: local('?'), url('fonts/Oswald-Regular.woff') format('woff'), url('fonts/Oswald-Regular.ttf') format('truetype'), url('fonts/Oswald-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+#content_box{ float:right; margin-top:5%;  padding:10px;  padding:10px; border-radius:10px;}
+
+.head{font-family: 'Conv_MYRIADPRO-REGULAR'; font-size:60px; color:#fff; text-shadow:1px 1px 1px #000; margin-bottom:8px;}
+.text{font-family: 'Conv_MYRIADPRO-REGULAR'; font-size:16px; color:#fff; margin-top:0px;}
+
+.button{ width:37%; height:auto; padding:3px; font-size:19px; border:1px solid #a08901; border-radius:2px; font-family: 'Conv_MYRIADPRO-REGULAR'; color:#fff; text-shadow:1px 1px 1px #000; background:#ebb52d;}
+
+#login_box{transform:rotate(90deg); position:fixed;  top:20%; z-index:9999;
+-ms-transform:rotate(90deg); /* IE 9 */
+-webkit-transform:rotate(90deg); color:#fff; float:right; position:absolute; z-index:9999; right:0%; margin-right:-10px; padding:8px; font-size:16px;  border-radius:0px 0px 5px 5px;  background:#3e5161;}
+
+#signin_box{transform:rotate(90deg); position:fixed;  top:20%; z-index:9999;
+-ms-transform:rotate(90deg); /* IE 9 */
+-webkit-transform:rotate(90deg); color:#fff; float:right; position:absolute; z-index:9999; right:0%; margin-right:-12px; padding:8px; font-size:16px;  border-radius:0px 0px 5px 5px;  background:#3e5161;}
+
+#form_box{width:300px; height:auto; float:left; background:rgba(76,88,94,0.9); border-radius:5px 0px 0px 5px; position:absolute; z-index:9999; float:right; right:0px; padding:5px; display:none; top:1%; border:2px solid #273237;}
+
+
+#signinform_box{width:300px; height:auto; float:left; background:rgba(76,88,94,0.9); border-radius:5px 0px 0px 5px; position:absolute; z-index:9999; float:right; right:0px; padding:5px; display:none; top:1%; border:2px solid #273237;}
+
+.form{ width:200px; height:auto; float:left; border:1px solid #232a2e; height:25px; border-radius:5px;}
+
+
+
+#hover-menu{ width: auto;height:20px;float: right;margin-right:40px; margin-top:10px; padding:5px; font-family: 'Conv_MYRIADPRO-REGULAR'; text-shadow: 1px 1px 1px #000; color:#fff; background:#f6c030; border:1px solid #ab7d02; border-radius:5px 5px;}
+
+#hover-menu ul { padding:0; margin:0; list-style:none; border:0;}
+#hover-menu li { float:left; margin:0; border:0; width:auto; padding-top:0px; padding-bottom:7px; text-align:center; position:relative;}
+#hover-menu li a { color:#fff; float:left; font:bold 12px Arial, Helvetica, sans-serif; text-decoration:none; text-align:center;}
+
+#hover-menu  li:hover ul{	
+	display:block;
+	margin:0px;
+	padding:0px;
+	background:#3e4b51;
+	}	
+	#hover-menu li ul {
+		position:absolute;
+		float:none;
+		left:-75px;
+		top:26px;
+		display:none;
+		padding:0px 0px 0;
+		width:90px!important;
+		height:auto!important;
+		z-index:9999;
+		border-top:none;
+	}
+	#hover-menu li:hover li{
+		margin:0;
+		height:auto !important;
+		width:90px!important;
+		background:#3e4b51;
+		line-height:35px!important;
+		border-bottom:1px solid #ccc;
+		border-right:none;
+		padding-bottom:0px;
+		padding-top:0px;
+		padding:5px;
+
+	}
+	#hover-menu li:hover li:hover{ background:#53646c;}
+	#hover-menu li:hover li a{
+	text-align:center;
+	}
+

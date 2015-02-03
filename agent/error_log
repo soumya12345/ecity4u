@@ -1,0 +1,94 @@
+[22-Aug-2014 04:47:06 UTC] PHP Warning:  include_once(head-searchcity/function.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/ecity4u/public_html/agent/login_insert.php on line 2
+[22-Aug-2014 04:47:06 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'head-searchcity/function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ecity4u/public_html/agent/login_insert.php on line 2
+[22-Aug-2014 04:47:06 UTC] PHP Fatal error:  Call to undefined function make_safe() in /home/ecity4u/public_html/agent/login_insert.php on line 3
+[22-Aug-2014 05:30:23 UTC] PHP Warning:  include_once(function.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/ecity4u/public_html/agent/product_delete.php on line 2
+[22-Aug-2014 05:30:23 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ecity4u/public_html/agent/product_delete.php on line 2
+[22-Aug-2014 05:30:23 UTC] PHP Fatal error:  Call to undefined function chk_login() in /home/ecity4u/public_html/agent/product_delete.php on line 3
+[25-Aug-2014 13:00:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[25-Aug-2014 13:00:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[25-Aug-2014 13:01:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[25-Aug-2014 13:01:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[25-Aug-2014 13:25:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[25-Aug-2014 13:25:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[26-Aug-2014 05:38:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[26-Aug-2014 05:38:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[26-Aug-2014 05:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[26-Aug-2014 05:42:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[26-Aug-2014 09:30:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[26-Aug-2014 09:30:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[26-Aug-2014 09:50:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[26-Aug-2014 09:50:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[14-Sep-2014 06:40:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[14-Sep-2014 06:40:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[14-Sep-2014 06:41:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[14-Sep-2014 06:41:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[05-Oct-2014 08:02:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[05-Oct-2014 08:02:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[05-Oct-2014 08:02:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[05-Oct-2014 08:02:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[12-Oct-2014 17:48:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[12-Oct-2014 17:48:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[12-Oct-2014 17:48:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[12-Oct-2014 17:48:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[12-Oct-2014 17:53:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[12-Oct-2014 17:53:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[12-Oct-2014 17:55:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[12-Oct-2014 17:55:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[12-Oct-2014 18:00:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[12-Oct-2014 18:00:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[19-Oct-2014 14:18:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[19-Oct-2014 14:18:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[21-Oct-2014 07:12:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[21-Oct-2014 07:12:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[29-Oct-2014 07:10:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[29-Oct-2014 07:10:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[29-Oct-2014 07:10:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[29-Oct-2014 07:10:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[29-Oct-2014 07:10:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[29-Oct-2014 07:10:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[31-Oct-2014 15:22:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[31-Oct-2014 15:22:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[31-Oct-2014 15:24:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[31-Oct-2014 15:24:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[31-Oct-2014 15:24:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[31-Oct-2014 15:24:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[25-Nov-2014 07:18:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[25-Nov-2014 07:18:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[25-Nov-2014 07:18:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[25-Nov-2014 07:18:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[28-Nov-2014 07:41:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[28-Nov-2014 07:41:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[28-Nov-2014 07:42:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[28-Nov-2014 07:42:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[01-Dec-2014 07:12:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[01-Dec-2014 07:12:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[01-Dec-2014 07:13:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[01-Dec-2014 07:13:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[05-Dec-2014 07:52:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[05-Dec-2014 07:52:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[05-Dec-2014 07:52:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[05-Dec-2014 07:52:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[06-Dec-2014 15:47:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[06-Dec-2014 15:47:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[06-Dec-2014 15:48:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[06-Dec-2014 15:48:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[13-Dec-2014 14:18:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[13-Dec-2014 14:18:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[13-Dec-2014 14:18:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[13-Dec-2014 14:18:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[20-Dec-2014 13:28:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[20-Dec-2014 13:28:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[20-Dec-2014 13:28:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[20-Dec-2014 13:28:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[06-Jan-2015 06:57:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[06-Jan-2015 06:57:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[06-Jan-2015 06:57:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[06-Jan-2015 06:57:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[07-Jan-2015 06:15:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[07-Jan-2015 06:15:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[07-Jan-2015 06:15:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[07-Jan-2015 06:15:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[07-Jan-2015 06:15:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[07-Jan-2015 06:15:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
+[07-Jan-2015 07:23:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ecity4u/public_html/agent/product_insert.php on line 13
+[07-Jan-2015 07:23:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecity4u/public_html/agent/product_insert.php:13) in /home/ecity4u/public_html/agent/product_insert.php on line 36
